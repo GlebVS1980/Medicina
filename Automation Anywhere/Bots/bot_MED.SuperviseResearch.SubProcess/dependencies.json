@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\MED.SuperviseResearch.SubProcess","manualDependencies":["Automation Anywhere\\Bots\\MED.RefInput.ChangeStatus"],"scannedDependencies":["Automation Anywhere\\Bots\\MED.RefInput.ChangeStatus","Automation Anywhere\\Bots\\MED.RefInput.SortTable"]}
+{"path":"Automation Anywhere\\Bots\\MED.SuperviseResearch.SubProcess","manualDependencies":["Automation Anywhere\\Bots\\MED.RefInput.ChangeStatus"],"scannedDependencies":["Automation Anywhere\\Bots\\MED.RefInput.SortTable","Automation Anywhere\\Bots\\MED.RefInput.ChangeStatus"]}
