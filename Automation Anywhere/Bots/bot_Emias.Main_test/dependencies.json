@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\Emias.Main_test","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Emias.Login","Automation Anywhere\\Bots\\Emias.FindOpenPatient","Automation Anywhere\\Bots\\Emias.FillEpicrisis"]}
